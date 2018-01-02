@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Nina-no-Burogu
 tagline:             ''
 description:         ''
-url:                 https://matikin9.github.io/nina-no-burogu/
-baseurl:             'https://matikin9.github.io/nina-no-burogu/'
+url:                 https://matikin9.github.io
+baseurl:             '/nina-no-burogu'
 paginate:            5
 
 # About/contact
