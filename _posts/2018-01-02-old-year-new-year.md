@@ -34,15 +34,15 @@ Do I stick to my pen and paper journal to plan and track all this?  Should I go 
 
 My first draft / first iteration is here, set in stone to both hold myself accountable and to help me accept being "good enough".
 
-** Major Goals **
+**Major Goals**
 
 1. Lose 30 lbs by the end of 2018.
-  a. Eat low carb in January with 1 cheat day per week.
-  b. Follow a regular exercise plan.
+    1. Eat low carb in January with 1 cheat day per week.
+    2. Follow a regular exercise plan.
 2. Go on a 50+ mile bike ride each month.
 3. Go travel somewhere for fun each quarter.
 
-** Minor Goals **
+**Minor Goals**
 
 1. Learn to read Hiragana and Katakana by mid-February.
 2. Write/blog regularly.
