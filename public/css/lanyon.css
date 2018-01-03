@@ -500,6 +500,14 @@ a.pagination-item:hover {
 .theme-base-0c .related-posts li a:hover {
   color: #75b5aa;
 }
+.sidebar-toggle:active:before,
+#sidebar-checkbox:focus ~ .sidebar-toggle:before,
+#sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #75b5aa 20%, #75b5aa 40%, #fff 40%, #fff 60%, #75b5aa 60%, #75b5aa 80%, #fff 80%, #fff 100%);
+  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #75b5aa 20%, #75b5aa 40%, #fff 40%, #fff 60%, #75b5aa 60%, #75b5aa 80%, #fff 80%, #fff 100%);
+  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #75b5aa 20%, #75b5aa 40%, #fff 40%, #fff 60%, #75b5aa 60%, #75b5aa 80%, #fff 80%, #fff 100%);
+  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #75b5aa 20%, #75b5aa 40%, #fff 40%, #fff 60%, #75b5aa 60%, #75b5aa 80%, #fff 80%, #fff 100%);
+}
 
 /* Blue */
 .theme-base-0d .sidebar,
