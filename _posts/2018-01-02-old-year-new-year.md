@@ -3,8 +3,6 @@ layout: post
 title: Old Year, New Year
 ---
 
-# Old Year, New Year
-
 ## 2017
 
 I took the last week of 2017 off from work to take some time for myself.  I spent quality time with family, friends, and Netflix.  Watching so much TV was not intentional, but I accepted it as needed entertainment time.  Ultimately, I spent 2 days reflecting on the past year, using worksheets from [Anuschka Rees](https://anuschkarees.com/blog/2017/12/28/your-year-in-review-2017/) and [Get Busy Living](http://getbusylivingblog.com/write-your-annual-review-plus-a-free-worksheet-to-help/).  To recall the events of the year, I referenced my Google Calendar, Facebook Events, and Instagram.  Those three services pretty much cover everything that goes on in my life.
@@ -46,5 +44,9 @@ My first draft / first iteration is here, set in stone to both hold myself accou
 
 1. Learn to read Hiragana and Katakana by mid-February.
 2. Write/blog regularly.
+3. Drink a certain amount of water per day.
+4. Floss daily.
 
-So far I've started on both minor goals.  Major goal #3 is taken care of with my February trip to Japan.  I've started on Major goal #1 today with a low carb diet.  That goal lends itself into being broken down into sub-goals but I know I can easily go overboard and off track with that.  I need to check myself if I start to get too crazy about it.
+So far I've started on both minor goals #1 and #2.  Major goal #3 is taken care of with my February trip to Japan.  I've started on Major goal #1 today with a low carb diet.  That goal lends itself into being broken down into sub-goals but I know I can easily go overboard and off track with that.  I need to check myself if I start to get too crazy about it.
+
+For proper goal setting, I'll use a SMART goal worksheet to define each goal and create a detailed plan. 
