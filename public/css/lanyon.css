@@ -492,8 +492,8 @@ a.pagination-item:hover {
 /* Cyan */
 .theme-base-0c .sidebar,
 .theme-base-0c .sidebar-toggle:active,
-.theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle,
-.theme-base-0c #sidebar-checkbox:focus ~ .sidebar-toggle:before,{
+.theme-base-0c #sidebar-checkbox:focus ~ .sidebar-toggle,
+.theme-base-0c #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #75b5aa;
 }
 .theme-base-0c .container a,
