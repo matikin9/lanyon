@@ -120,6 +120,12 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+ul ul, ul ol,
+ol ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 dt {
   font-weight: bold;
 }
