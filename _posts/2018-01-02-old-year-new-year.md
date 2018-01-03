@@ -3,6 +3,8 @@ layout: post
 title: Old Year, New Year
 ---
 
+# Old Year, New Year
+
 ## 2017
 
 I took the last week of 2017 off from work to take some time for myself.  I spent quality time with family, friends, and Netflix.  Watching so much TV was not intentional, but I accepted it as needed entertainment time.  Ultimately, I spent 2 days reflecting on the past year, using worksheets from [Anuschka Rees](https://anuschkarees.com/blog/2017/12/28/your-year-in-review-2017/) and [Get Busy Living](http://getbusylivingblog.com/write-your-annual-review-plus-a-free-worksheet-to-help/).  To recall the events of the year, I referenced my Google Calendar, Facebook Events, and Instagram.  Those three services pretty much cover everything that goes on in my life.
