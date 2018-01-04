@@ -47,4 +47,6 @@ title: Goals
 1. Blog twice a week. *Week 1 success.*
 2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
 3. Floss daily. *Not started.*
-4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* <div style="display: inline-block; width: 62px; height: 20px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="display: inline-block; width: 6px; height: 10px; margin: 0; padding: 0; background-color: #eee;"></div></div>
+4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* 
+
+<div style="display: inline-block; width: 62px; height: 20px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="display: inline-block; width: 6px; height: 10px; margin: 0; padding: 0; background-color: #eee;"></div></div>
