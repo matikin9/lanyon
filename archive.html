@@ -5,12 +5,10 @@ title: Archive
 
 <div class="posts">
   {% for post in site.posts %}
-  <div class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}/{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
-  </div>
   {% endfor %}
 </div>
