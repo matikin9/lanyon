@@ -5,7 +5,7 @@ title: Goals
 
 **2018 Long Term Goals**
 
-1. Weigh 140 lbs by the end of 2018.
+1. Weigh 140 lbs by the end of 2018.  Starting at 178 lbs on Jan 1.
     1. Mar 31: 168 lbs
     2. Jun 30: 158 lbs
     3. Sep 30: 149 lbs
@@ -48,3 +48,5 @@ title: Goals
 2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
 3. Floss daily. *Not started.*
 4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success*
+
+<div style="width: 31px; height: 10px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="width: 3px; height: 10px; margin: 0; padding: 0; background-color: #eee;"></div></div>
