@@ -51,6 +51,16 @@ title: Goals
 
 **Habits**
 1. Blog twice a week. *Week 1 success.*
+
+<div class="tracker month-d5w">
+  <div class="spacer"></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
+
+
+
 2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
 3. Floss daily. *Not started.*
 4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* 
