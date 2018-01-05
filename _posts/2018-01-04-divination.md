@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Divination
+date: 2018-01-04 21:00:00
 ---
 
 For a non-spiritual Atheist and science-based thinker, I've long been fascinated by divination.  While I don't think there is any sort of divine or universal power driving it, I rationalize its value as an associative trigger for the brain.  In that struggle between what we think we should do, what we think we want to do, and what we don't know we want to do... I believe that cleromancy techniques can help bring our thoughts to the forefront.  It won't tell us anything we don't know, but like other creative activities it can help break our normal thought patterns to create new neural pathways.
