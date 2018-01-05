@@ -25,21 +25,25 @@ div.spacer {
 }
 
 .year-4q {
+  border: solid 1px #888;
   height: 22px;
   width: 82px;
 }
 
 .year-12m {
+  border: solid 1px #888;
   height: 22px;
   width: 242px;
 }
 
 .month-d4w {
+  border: solid 1px #888;
   height: 82px;
   width: 142px;
 }
 
 .month-d5w {
+  border: solid 1px #888;
   height: 102px;
   width: 142px;
 }
