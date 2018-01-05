@@ -49,6 +49,6 @@ title: Goals
 3. Floss daily. *Not started.*
 4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* 
 
-<div style="color: #eee; font-size: 18px; width: 20px; height: 20px; border: solid 1px #ccc; margin: 0; padding: 0;">&times;</div>
+<div style="width: 42px; height: 102px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style=""width: 20px; height: 20px; display: inline-block; margin: 0; padding: 0; background-color: #88e;></div></div>
 
-<div style="width: 62px; height: 20px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="width: 6px; height: 18px; margin: 0; padding: 0; background-color: #eee;"></div></div>
+<div style="width: 64px; height: 22px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="width: 6px; height: 20px; margin: 0; padding: 0; background-color: #88e;"></div></div>
