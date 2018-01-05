@@ -39,7 +39,13 @@ title: Goals
 **Goals for January**
 
 1. Learn to read Hiragana and Katakana by mid-February.
-    1. Practice Hiragana and Katakana daily. *Week , day 3 - success to be determined.*
+    1. Katakana Basic: *1/4 - Mostly there.*
+    2. Katakana Variations: 
+    3. Katakana Vocabulary: 
+    4. Hiragana Basic: *1/4 - Started.*
+    5. Hiragana Variations:
+    6. Hiragana Vocabulary: 
+    7. [General Vocabulary](https://www.tofugu.com/japanese/important-japanese-words/): 
 2. Eat low carb in January with 1 cheat day per week.  *Week 1, day 2 of keto.*
 3. Exercise for 60 minutes, at least 5 days a week.
 
@@ -48,7 +54,3 @@ title: Goals
 2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
 3. Floss daily. *Not started.*
 4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* 
-
-<div style="width: 42px; height: 102px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="width: 20px; height: 20px; float: left; margin: 0; padding: 0; background-color: #88e;"></div></div>
-
-<div style="width: 64px; height: 22px; border: solid 1px #ccc; margin: 0; padding: 0;"><div style="width: 6px; height: 20px; float: left; margin: 0; padding: 0; background-color: #88e;"></div></div>
