@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Not Even a Week Yet
+date: 2018-01-04 18:00:00
 ---
 
 I feel like I had more time to recover from the year in 2016.  The end of 2017 passed by so quickly and 2018 is starting at a brisk pace.  It's stressful to have obligations and responsibilities, but of course those are what also make life meaningful.  The key is balance.  How do I balance doing all the things I want to do?  I go back and forth between the extremes - researching and planning to create detailed schedules versus jumping between activities as they come up.
