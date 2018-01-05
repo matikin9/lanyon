@@ -57,9 +57,15 @@ title: Goals
   <div></div>
   <div></div>
   <div></div>
+  <div class="spacer"></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div class="spacer"></div>
+  <div></div>
+  <div></div>
+  <div></div>
 </div>
-
-
 
 2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
 3. Floss daily. *Not started.*
