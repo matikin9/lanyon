@@ -1,0 +1,48 @@
+// Tracker styles
+
+.tracker {
+  border: solid 1px #888;
+  margin: 0;
+  padding: 0;
+}
+
+.tracker div {
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+  background-color: #88e;
+  float: left;
+}
+
+.tracker div.spacer {
+  background-color: #fff;
+}
+
+.tracker.week-7x {
+  height: 22px;
+  width: 142px;
+}
+
+.tracker.year-4q {
+  height: 22px;
+  width: 82px;
+}
+
+.tracker.year-12m {
+  height: 22px;
+  width: 242px;
+}
+
+.tracker.month-d4w {
+  height: 82px;
+  width: 142px;
+}
+
+.tracker.month-d5w {
+  height: 102px;
+  width: 142px;
+}
+
+// Add more .tracker.XXXXX entries for tracker shape and size variations.
+// Size must be multiples of 20x20 squares, with +2px in each direction.
