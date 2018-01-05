@@ -15,31 +15,31 @@
   float: left;
 }
 
-.tracker div.spacer {
+div.spacer {
   background-color: #fff;
 }
 
-.tracker.week-7x {
+.week-7x {
   height: 22px;
   width: 142px;
 }
 
-.tracker.year-4q {
+.year-4q {
   height: 22px;
   width: 82px;
 }
 
-.tracker.year-12m {
+.year-12m {
   height: 22px;
   width: 242px;
 }
 
-.tracker.month-d4w {
+.month-d4w {
   height: 82px;
   width: 142px;
 }
 
-.tracker.month-d5w {
+.month-d5w {
   height: 102px;
   width: 142px;
 }
