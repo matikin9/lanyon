@@ -55,20 +55,28 @@ title: Goals
 <div class="tracker month-d5w">
   <div class="spacer"></div>
   <div></div>
-  <div></div>
-  <div></div>
   <div class="spacer"></div>
   <div></div>
-  <div></div>
-  <div></div>
+</div>
+
+2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
+
+<div class="tracker month-d5w">
   <div class="spacer"></div>
   <div></div>
   <div></div>
   <div></div>
 </div>
 
-2. Drink 96 fl.oz. of water per day. *Week 1, day 2 success*
 3. Floss daily. *Not started.*
+
+<div class="tracker month-d5w">
+  <div class="spacer"></div>
+  <div class="spacer"></div>
+  <div class="spacer"></div>
+  
+</div>
+
 4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* 
 
 <div class="tracker week-7x">
