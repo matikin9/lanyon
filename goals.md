@@ -55,4 +55,9 @@ title: Goals
 3. Floss daily. *Not started.*
 4. Bring lunch to work Monday through Thursday. *Week 1, day 3 success* 
 
-<div class="tracker week-7d"><div class="spacer"></div><div></div><div></div><div></div></div>
+<div class="tracker week-7x">
+  <div class="spacer"></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>
