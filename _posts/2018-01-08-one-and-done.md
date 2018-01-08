@@ -14,4 +14,5 @@ I'm optimistic about doing a 50 mile ride this coming weekend.  On Sunday, we cl
 
 Planning for our trip to Japan has been slow.  We'd like to take care of booking the rooms by tonight.  I'm fairly happy with the progress I've made so far on memorizing katakana and hiragana.  I may be overextending myself by writing in addition to reading, but I find that it helps with the memorization.  I'm going to throw in vocabulary eventually too.
 
-[Goals](goals/) are still being tweaked.  I'd like to define rewards for achieving my goals as well!
+[Goals](goals/) are still being tweaked.  I haven't decided on a book to read yet!  I sense that I need to just pick something or else I'll be stuck at analysis paralysis, trying to optimize my choice.  An idea to make it easier: just create a list of 10 books that I can pick from!  I'd also like to define rewards for achieving my goals, not only would it be good positive reinforcement, I feel it's a good 
+way to practice self love.
