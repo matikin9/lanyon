@@ -66,6 +66,8 @@ title: Goals
 
 ## Reading List
 
+Most are available through Overdrive:
+
 * The Ethical Slut
 * Opening Up
 * Drive: The Surprising Truth About What Motivates Us
