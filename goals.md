@@ -37,6 +37,9 @@ title: Goals
   <div class="spacer"></div>
   <div></div>
   <div class="spacer"></div>
+  <div class="spacer"></div>
+  <div class="spacer"></div>
+  <div></div>
 </div>
 
 2. Drink 96 fl.oz. of water per day. *1/8 - Weekdays are easy, weekends are not.*
@@ -47,11 +50,15 @@ title: Goals
   <div></div>
   <div></div>
   <div class="spacer"></div>
+  <div></div>
+  <div></div>
 </div>
 
 3. Floss daily. *1/8 - Start in Week 2?*
 
 <div class="tracker month-d5w">
+  <div class="spacer"></div>
+  <div class="spacer"></div>
   <div class="spacer"></div>
   <div class="spacer"></div>
   <div class="spacer"></div>
