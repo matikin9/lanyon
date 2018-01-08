@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One and Done
-date: 2018-01-05 1:00:00
+date: 2018-01-08 11:00:00
 ---
 
 ## Week 1 Recap (Jan 1-7)
@@ -14,4 +14,4 @@ I'm optimistic about doing a 50 mile ride this coming weekend.  On Sunday, we cl
 
 Planning for our trip to Japan has been slow.  We'd like to take care of booking the rooms by tonight.  I'm fairly happy with the progress I've made so far on memorizing katakana and hiragana.  I may be overextending myself by writing in addition to reading, but I find that it helps with the memorization.  I'm going to throw in vocabulary eventually too.
 
-[Goals](goals.html) are still being tweaked.  I'd like to define rewards for achieving my goals as well!
+[Goals](goals/) are still being tweaked.  I'd like to define rewards for achieving my goals as well!
