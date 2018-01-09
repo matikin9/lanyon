@@ -16,7 +16,7 @@ title: Goals
 3. Travel somewhere fun each quarter.
     1. Q1: Japan in February.  Portland in March.
 4. Finish reading one book every 2 months.
-    1. Jan/Feb: ?
+    1. Jan/Feb: No Excuses
 
 **Goals for January**
 
