@@ -73,15 +73,25 @@ title: Goals
 
 ## Reading List
 
-Most are available through Overdrive:
+Books on my shelf:
 
 * The Ethical Slut
 * Opening Up
+* To Sell Is Human
+* How to Be a Craftivist
+* No Excuses
+* Notorious RBG
+* Headstrong
+* Affirmators
+* Modern Calligraphy
+* More Creative Lettering
+
+Library:
+
 * Drive: The Surprising Truth About What Motivates Us
 * The Power of Habit
 * Originals: How Non-Conformists Move the World
 * The Lean Startup
 * Strategize: Product Strategy and Product Roadmap Practices for the Digital Age
 * The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback
-* Getting Things Done: How to Achieve Stress-free Productivity
-* On Writing Well: The Classic Guide to Writing Nonfiction
+
