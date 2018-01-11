@@ -5,18 +5,27 @@ title: Goals
 
 **2018 Long Term Goals**
 
-1. Weigh 140 lbs by the end of 2018.  Starting at 178 lbs on Jan 1.
-    1. Mar 31: 168 lbs
-    2. Jun 30: 158 lbs
-    3. Sep 30: 149 lbs
-    4. Dec 31: 140 lbs
-2. Go on a 50+ mile bike ride each month.
-    1. January: LA River South. 1/13?
-    2. Febrary: Beach and back. 2/3?
-3. Travel somewhere fun each quarter.
-    1. Q1: Japan in February.  Portland in March.
-4. Finish reading one book every 2 months.
-    1. Jan/Feb: Domination & Submission
+| Goals/Milestones | Deadline | Notes |
+| ---- | -------- | ----- |
+| **Weigh 140 lbs by the end of 2018.** | 12/31/18 | Started at 178 lbs on 1/1/18. |
+| --- Weigh 168 lbs. | 3/31/18 | On track - 172.4 lbs as of 1/11. |
+| --- Weigh 158 lbs. | 6/30/18 |  |
+| --- Weigh 149 lbs. | 9/30/18 |  |
+| --- Weigh 140 lbs. | 12/31/18 |  |
+| **Do a 50+ mile bike ride each month.** | 12/31/18 |  |
+| --- January | 1/31/18 | Plan: LA River South to Long Beach.  Have lunch there and then bike back. |
+| --- February | 2/28/18 | Plan: Exposition Blvd to Ballona Creek, South along the coast to Torrance, then inland for Japanese food, and back. Leave by 9am, have lunch, be back by 4pm. |
+| --- March | 3/31/18 | ? |
+| **Vacation somewhere each quarter.** | 12/31/18 |  |
+| --- Q1 | 3/31/18 | Japan in February.  Portland in March. |
+| --- Q2 | 6/30/18 |  |
+| --- Q3 | 9/30/18 |  |
+| --- Q4 | 12/31/18 |  |
+| **Read at least one book a month.** | 12/31/18 | Tentative list to choose from below. |
+| --- January | 1/31/18 | Domination & Submission |
+| --- February | 2/28/18 | No Excuses |
+| --- March | 3/31/18 | The Ethical Slut |
+| --- April | 4/30/18 | How to Be a Craftivist |
 
 **Goals for January**
 
