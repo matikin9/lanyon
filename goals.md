@@ -16,7 +16,7 @@ title: Goals
 3. Travel somewhere fun each quarter.
     1. Q1: Japan in February.  Portland in March.
 4. Finish reading one book every 2 months.
-    1. Jan/Feb: No Excuses
+    1. Jan/Feb: Domination & Submission
 
 **Goals for January**
 
@@ -26,9 +26,8 @@ title: Goals
     4. Hiragana Basic: *1/8 - Can recognize and write about 1/3.*
     5. Hiragana Variations: *1/8 - Not started.*
 2. Eat low carb in January with 1 cheat day per week: *1/8 - Week 1 success.*
-3. Exercise for 60 minutes, at least 5 days a week. *1/8 - Start in Week 2?.*
 
-**Habits**
+**Habits for January**
 1. Blog twice a week. *1/8 - Week 1 success.*
 
 <div class="tracker month-d5w">
@@ -66,10 +65,11 @@ title: Goals
   <div class="spacer"></div>
 </div>
 
+4. Do a daily workout from a 30-day fitness challenge
+
 ## Potential Goals
 
 * Finish a Udemy course
-* Finish a 30-day Fitness challenge
 
 ## Reading List
 
