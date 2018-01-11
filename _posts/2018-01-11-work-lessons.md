@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work Lessons
-date: 01-11-2018 10:00
+date: 2018-01-11 10:00
 ---
 
 This week I had a phone call at work that involved a manager from a different department.  I need to write about this interaction so that I can recall it in the future.
