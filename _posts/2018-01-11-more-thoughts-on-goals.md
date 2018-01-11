@@ -4,7 +4,7 @@ title: More Thoughts on Goals
 date: 2018-01-11 13:00
 ---
 
-I haven't made any goals related to crafting or hobbies.  That was a subconscious but also deliberate choice.  I spent a LOT of time on hobbies last year... handwriting drills with a fountain pen, brush pen calligraphy, dip nib calligraphy, bullet journaling, knitting, cross stitch, embroidery.  Apparently I don't need additional motivation to pursue hobbies!
+I haven't made any goals related to crafting or hobbies.  That was a deliberate choice.  I spent a LOT of time on hobbies last year... handwriting drills with a fountain pen, brush pen calligraphy, dip nib calligraphy, bullet journaling, knitting, cross stitch, embroidery.  Apparently I don't need additional motivation to pursue hobbies!
 
 I do like the idea of a monthly project to learn techniques.  The problem is that I currently have several cross stitch projects in my queue that are either gifts for others or for myself, and I've found that it doesn't lend itself well to rushing given the quality level I want to produce.  The 2 big issues I come across when trying to optimize my cross stitching speed are:
 
