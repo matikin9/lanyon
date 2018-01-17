@@ -49,9 +49,11 @@ Learn to read Hiragana and Katakana by mid-February.
 
 ## Future Goals
 
-* Finish a Udemy course
+* Finish a Udemy course,
 * Take violin lessons.
 * Monthly craft project.
+* Join a local non-profit or neighborhood group.
+* App coding practice.
 
 ## Reading List
 
