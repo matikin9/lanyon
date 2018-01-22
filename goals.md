@@ -8,14 +8,14 @@ title: Goals
 | Goals/Milestones | Deadline | Notes |
 | ---------------- | -------- | ----- |
 | **Lose 40 lbs by the end of 2018.** |  | Started at 178 lbs. |
-| --- Weigh 168 lbs. | 3/31/18 | On track - 173 lbs as of 1/16. |
+| --- Weigh 168 lbs. | 3/31/18 | Up a little from the lowest point, but I'm also in the middle of my period. 173.6 as of 1/22 |
 | --- Weigh 158 lbs. | 6/30/18 |  |
 | --- Weigh 149 lbs. | 9/30/18 |  |
 | --- Weigh 140 lbs. | 12/31/18 |  |
 | **Do a 50+ mile bike ride each month.** |  |  |
-| --- January | 1/31/18 | 1/21 - LA River South to Long Beach and back. |
-| --- February | 2/28/18 | Ride West to the beach, then along the coast to the South Bay for Japanese food, and back.
-| --- March | 3/31/18 | ? |
+| --- January | 1/31/18 | Failure, but put in a good effort.  32 miles, DTLA to Long Beach.  Was extra cold. |
+| --- February | 2/28/18 | Ride to Westminster/Garden Grove for Vietnamese food, and Metrolink back? |
+| --- March | 3/31/18 | Ride West to the beach, then along the coast to the South Bay for Japanese food, and back. |
 | **Vacation somewhere each quarter.** |  |  |
 | --- Q1 | 3/31/18 | Japan in February.  Portland in March. |
 | --- Q2 | 6/30/18 |  |
@@ -31,21 +31,19 @@ title: Goals
 
 Learn to read Hiragana and Katakana by mid-February.
 
-* 1/16 - Can fairly consistently read most Hirgana and Katakana.
-* 1/16 - Working on common Kanji.
-* 1/16 - Working on writing Hiragana and Katakana.
-* 1/16 - Working on basic vocabulary, phrases, and sentence structures.
+* 1/22 - Focusing on recalling easily confused Hiragana.
+* 1/22 - Working on basic vocabulary, phrases, and sentence structures through Duolingo.
 
 **Habits for January**
 
 1. Blog twice a week.
-    * 1/16 - Good so far.
+    * 1/22 - Good so far.
 2. Drink 96 fl.oz. of water per day.
-    * 1/16 - Still working on weekends.
+    * 1/22 - Time spent playing video games = not so good.
 3. Floss daily.
-    * 1/16 - Fresh start this week, after hygenist appointment.
+    * 1/16 - Good for several days last week.  No accountability on the weekend.
 4. Do a daily workout from a 30-day fitness challenge.
-    * 1/16 - Only 2 of 7 days last week.  Do better this week.
+    * 1/16 - 4 days last week, so better (although one was a rest day).
 
 ## Future Goals
 
