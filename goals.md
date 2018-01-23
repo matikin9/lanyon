@@ -67,3 +67,9 @@ Books on my shelf:
 * Affirmators
 * Modern Calligraphy
 * More Creative Lettering
+
+More!
+
+* Flow: The Psychology of Optimal Experience
+* The Talent Code: Greatness isn't Born.  It's Grown.
+* Free Play: Improvisation in Life and Art
