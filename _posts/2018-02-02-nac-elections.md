@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Elections
+title: NAC Elections
 date: 2018-02-02 17:00
 ---
 
-I think the last time I ran for anything was high school Winter Formal Queen, and you get nominated for that.  No, I did not win and I was perfectly fine with it.  Perhaps in an effort to protect my ego, I don't place any expectation on my ability to ever win an election.  Running for the CFA Brigade NAC is a tiny bit different.  I had a few people asking me if I was planning to run (and then they told me I should).  Someone actually nominated me and CFA central sent me the candidate form.  Some friends actually saw my name in the list of candidates and reached out to wish me luck.  Other friends endorsed me on social media.  All this support was so much more than I ever dreamed of.  It means a great deal to me that these friends went out of their way to vocalize their faith in my abilities.
+I think the last time I ran for anything was high school Winter Formal Queen, and you get nominated for that.  No, I did not win and I was perfectly fine with it.  Perhaps in an effort to protect my ego, I don't place any expectation on my ability to ever win an election.  Running for the Code For America Brigade National Advisory Council (NAC) is a tiny bit different.  I had a few people asking me if I was planning to run (and then they told me I should).  Someone actually nominated me and CFA central sent me the candidate form.  Some friends actually saw my name in the list of candidates and reached out to wish me luck.  Other friends endorsed me on social media.  All this support was so much more than I ever dreamed of.  It means a great deal to me that these friends went out of their way to vocalize their faith in my abilities.
 
 I still have yet to make a public announcement for myself.  I don't want to screw it up by not knowing what I'm doing and then saying the *wrong* thing.  But... I can't let my friends' support go to waste because of my own low self esteem and insecurities.  If they have confidence in my ability, who am I to not trust their judgement?  I used to dismiss others' positive opinions of me with the excuse that they didn't really know me.  I could only use that as an excuse if I thought I wasn't presenting myself the way I saw myself.  I've improved a lot on that front by striving to present myself openly and authentically.  No more excuses, no more buts!  As Write/Speak/Code teaches - say "Thank You" - period.  Take in the compliment, let yourself accept it and then move on.
 
