@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elections
-date: 2018-02-02 14:00
+date: 2018-02-02 17:00
 ---
 
 I think the last time I ran for anything was high school Winter Formal Queen, and you get nominated for that.  No, I did not win and I was perfectly fine with it.  Perhaps in an effort to protect my ego, I don't place any expectation on my ability to ever win an election.  Running for the CFA Brigade NAC is a tiny bit different.  I had a few people asking me if I was planning to run (and then telling me they thought I should).  Someone took the step of nominating me.  A few friends noticed my name in the list of candidates and wished me luck.  A few friends publicly posted endorsements of me on social media.  All this was so much more support than I could dare to hope for in this capacity.  It means a great deal to me that these friends went out of their way to vocalize their support to me personally and publicly on the internet.
