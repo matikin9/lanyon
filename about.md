@@ -5,7 +5,7 @@ title: About
 
 * Civic Nerd
 * Code Monkey
-* Kitty Mom
+* Two-time Kitty Mom
 * Serial Crafter
-* Enjoyer of Food
-* Adventuring Cyclist
+* Food Enthusiast
+* Adventure Cyclist
