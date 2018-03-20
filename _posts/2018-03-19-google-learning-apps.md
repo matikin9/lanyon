@@ -11,3 +11,4 @@ I spent the weekend re-listing To-Do items, and then I prioritized them.  I stil
 On the list of lists to create:
 * Sellers of merchandise promoting tech, aimed at women.
 * Ideas for civic tech merchandise.
+* Books to read... Thinking Fast and Slow, Dan Ariely's books.
