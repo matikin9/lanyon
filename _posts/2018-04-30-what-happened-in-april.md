@@ -23,3 +23,5 @@ Saturday the 21st, Leonard was in town and I hung out at his birthday pool party
 Reading this month has been a little slow.  I might be overwhelmed by the sudden stack of books I accumulated.  NAC activites have been a little slow as well.  It's easy for it to be out of sight and out of mind since communication is only through Slack and group calls are only once a month.  I've spent more time doing cross stitch.  The project for Sonny's baby is on hold because I need more gold metallic thread.  I've made a lot of progress on my Field of Fucks.  No new work done on the Great Wave.  I periodically get the urge to start on additional new crafting projects.  Tapestry weaving.  Modern macrame tapestries hanging off of a branch.  Leatherworking.  Bulky crocheted bins.  Quilting.  Sewing clothes.
 
 DAMN, I still haven't re-assessed my goals for the year.  I'll try to tackle that later today.
+
+Edit: Add onto the list of things to make: zines about things (crafty things? programming things? civic tech things?), and cool programming or civic tech merch.
