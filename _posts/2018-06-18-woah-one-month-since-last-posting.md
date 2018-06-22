@@ -4,7 +4,7 @@ title: woah, one month since last posting!
 date: 2018-06-18 15:30
 ---
 
-"It's been busy" has been a common response every time someone asks me how I've been.  Since I last posted, I've been up in the Bay Area for 9 days.  The first weekend Lawrence and I stayed in Sunnyvale.  We slept and ate, and did barely anything else.  We watched AvengerS: Age of Ultron.  We had drinks and dinner with Megan & Zach.
+"It's been busy" has been a common response every time someone asks me how I've been.  Since I last posted, I've been up in the Bay Area for 9 days.  The first weekend Lawrence and I stayed in Sunnyvale.  We slept and ate, and did barely anything else.  We watched Avengers: Age of Ultron.  We had drinks and dinner with Megan & Zach.
 
 The rest of the week was consumed by civic tech.  From the NAC in-person meeting day, to Brigade Day, to the two days of the Code for America Summit, to Saturday's bike ride with Hunter and two of his civic tech friends, and finally a car ride back to Los Angeles with Hunter and Vyki.
 
