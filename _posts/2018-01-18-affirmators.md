@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Affirmators
+tags: [life]
 date: 2018-01-18 11:00
 ---
 
