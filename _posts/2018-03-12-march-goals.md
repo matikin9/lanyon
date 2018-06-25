@@ -1,6 +1,7 @@
 ---
 layout: post
 title: March Goals
+tags: [life]
 date: 2018-03-12 15:00
 ---
 
