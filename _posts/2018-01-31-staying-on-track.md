@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Staying on Track
+tags: [life]
 date: 2018-01-31 11:00
 ---
 
