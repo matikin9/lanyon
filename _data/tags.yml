@@ -1,8 +1,5 @@
-- slug: jekyll
-  name: Jekyll
+- slug: reading
+  name: Reading
 
-- slug: documentation
-  name: Documentation
-
-- slug: examples
-  name: Examples
+- slug: civic-tech
+  name: Civic Tech

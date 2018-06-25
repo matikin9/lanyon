@@ -118,14 +118,14 @@ Using Liquid you can also conditionally show the sidebar open on a per-page basi
 
 ## Tags
 
-Create tags with `_tools/createTag url-name "Pretty Name"`. Tag posts by adding `tags: [tag-name]` to the front matter of post files.
+Create tags with `_tools/createTag 'Pretty Name'`. Tag posts by adding `tags: [tag-name]` to the front matter of post files.
 
 For example:
 
 * Create a new tag called *using-git*
 
 ```
-$ ./_tools/createTag using-git "Using git"
+$ ./_tools/createTag 'Using git'
 ```
 
 * Create a new post file: `_posts/2014-12-31-how-to-clone-a-repository.md`
@@ -149,6 +149,28 @@ $ git add _posts/2014-12-31-how-to-clone-a-repository.md
 $ git commit -m "Add new tag and post"
 $ git push
 ```
+
+**6/25/18 Notes - by Nina**
+
+I'm new to running shell scripts.  I got a permission error, so had to run `chmod +x createTag` to make the script executable.  Then the original instructions were out of date.  The script takes one input, not two.  You pass it just the quoted "pretty" tag name.  I've updated the documentation to reflect this.
+
+For reference - what the script does to create a new tag is:
+
+* Checks to see if the tag already exists.
+* Creates a url-friendly slug of the tag name.
+* Adds the slug and pretty name to the `_data/tags.yml` file in the following format:
+  ```
+  - slug: [tag-slug]
+    name: [tag-pretty-name]
+  ```
+* Creates a new file in the `tag/` folder of the form `[tag-slug].md` with the following content:
+  ```
+  ---
+  layout: posts_by_tag
+  tag: [tag-slug]
+  title: Posts tagged [tag-pretty-name]
+  ---
+  ```
 
 ## Development
 
