@@ -1,6 +1,7 @@
 ---
 layout: post
 title: woah, one month since last posting!
+tags: [life]
 date: 2018-06-18 15:30
 ---
 
