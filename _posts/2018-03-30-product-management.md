@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Product Management
+tags: [reading, professional-development]
 date: 2018-03-30 11:00
 ---
 
