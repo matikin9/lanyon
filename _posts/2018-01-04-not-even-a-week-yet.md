@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Not Even a Week Yet
+tags: [life]
 date: 2018-01-04 18:00:00
 ---
 
