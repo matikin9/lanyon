@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Happened in April?
+tags: [life]
 date: 2018-04-30 13:00
 ---
 
