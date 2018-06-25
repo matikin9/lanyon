@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Second Week (Mid-Month!) Update
+tags: [life]
 date: 2018-01-16 09:30
 ---
 
