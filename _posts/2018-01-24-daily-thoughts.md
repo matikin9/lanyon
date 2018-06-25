@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Daily Thoughts
+tags: [life]
 date: 2018-01-24 11:00
 ---
 
