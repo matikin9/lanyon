@@ -1,6 +1,7 @@
 ---
 post: layout
 title: Uncomfortable
+tags: [personal-development]
 date: 2018-04-05 11:00
 ---
 
