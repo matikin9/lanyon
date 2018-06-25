@@ -10,5 +10,8 @@
 - slug: programming
   name: Programming
 
-- slug: personal
-  name: Personal
+- slug: personal-development
+  name: Personal Development
+
+- slug: professional-development
+  name: Professional Development
