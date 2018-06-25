@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Brigade Network Love <3
+tags: [community]
 date: 2018-02-28 9:30
 ---
 
