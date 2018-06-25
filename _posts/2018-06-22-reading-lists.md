@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Reading Lists
+tags: [reading]
 date: 2018-06-22 14:30
 ---
 
