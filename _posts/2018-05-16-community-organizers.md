@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Community Organizers
+tags: [professional-development, community]
 date: 2018-05-16 15:00
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Career Plan
+tags: [professional-development]
 date: 2018-01-16 17:30
 ---
 

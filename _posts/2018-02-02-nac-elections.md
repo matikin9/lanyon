@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NAC Elections
+tags: [community]
 date: 2018-02-02 17:00
 ---
 

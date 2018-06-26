@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On Youthful Romance and Self Reflection
+tags: [life]
 date: 2018-03-07
 ---
 

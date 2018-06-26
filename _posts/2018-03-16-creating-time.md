@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Creating Time
+tags: [life]
 date: 2018-03-16 10:00
 ---
 

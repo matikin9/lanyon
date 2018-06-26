@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Divination
+tags: [life]
 date: 2018-01-04 21:00:00
 ---
 

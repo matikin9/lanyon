@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Craft and Science
+tags: [crafting, programming]
 date: 2018-04-04 15:00
 ---
 

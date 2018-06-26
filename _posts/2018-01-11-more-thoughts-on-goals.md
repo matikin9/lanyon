@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More Thoughts on Goals
+tags: [life]
 date: 2018-01-11 13:00
 ---
 

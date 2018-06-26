@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sunday Thoughts
+tags: [life]
 date: 2018-02-04 10:30
 ---
 

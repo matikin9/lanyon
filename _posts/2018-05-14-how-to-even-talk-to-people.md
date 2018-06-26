@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to even talk to people?
+tags: [personal-development]
 date: 2018-05-14 16:00
 ---
 
