@@ -15,3 +15,36 @@
 
 - slug: community
   name: Community
+
+- slug: crafting
+  name: Crafting
+
+- slug: biking
+  name: Biking
+
+- slug: weight-loss
+  name: Weight Loss
+
+- slug: career
+  name: Career
+
+- slug: goals
+  name: Goals
+
+- slug: product-management
+  name: Product Management
+
+- slug: hack-for-la
+  name: Hack for LA
+
+- slug: code-for-america
+  name: Code for America
+
+- slug: maptimela
+  name: MaptimeLA
+
+- slug: cooking
+  name: Cooking
+
+- slug: exercise
+  name: Exercise
