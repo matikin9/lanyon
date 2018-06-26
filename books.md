@@ -5,32 +5,34 @@ title: Books
 
 ## Currently Reading
 
-* A Whole New Mind
-* How to Be a Craftivist
-* Center for Urban Pedagogy with Molly Sherman
+* Daniel Pink - A Whole New Mind
+* Sarah Corbett - How to Be a Craftivist
+* Portland State University Art and Social Practice - Center for Urban Pedagogy with Molly Sherman
+* How to be a Leader (The School of Life)
 
 ## Books Read in 2018
 
-* To Sell Is Human
-* The Upside of Irrationality
-* Civic Tech
+* Daniel Pink - To Sell Is Human
+* Dan Ariely - The Upside of Irrationality
+* Andrew Schrock - Civic Tech
 
 ## Books On My Shelf
 
 * You're More Powerful Than You Think
-* How to be a Leader (The School of Life)
+* Rules for Revolutionaries
+* Organize Tomorrow Today
 * Thinking Fast and Slow
 * What's Your Creative Type?
 * The Lean Product Playbook
 * Cracking the PM Interview
 * Predictably Irrational
+* The 7 Habits of Highly Effective People
 * No Excuses
 * Notorious RBG
 * Headstrong
 * Affirmators
 * Modern Calligraphy
 * More Creative Lettering
-* The 7 Habits of Highly Effective People
 
 ## Books On My List To Get
 
