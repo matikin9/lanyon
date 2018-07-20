@@ -8,8 +8,8 @@ title: Goals
 | Goals/Milestones | Deadline | Notes |
 | ---------------- | -------- | ----- |
 | **Lose ~30 lbs by the end of 2018.** |  | Started at 178 lbs. Took a break between mid-Feb to mid-June and went back up to 178 lbs.  Started again mid-June and entering July at ~170lbs. Adjusted goals accordingly. |
-| --- Weigh 168 lbs. | 3/31/18 | At 171 lbs on 2/6/18. |
-| --- Weigh 170 lbs. | 6/30/18 | At 172 lbs on 6/25/18.  I went to Japan in February and failed to get back on the keto bandwagon afterwards.  I'm starting from scratch with a keto meal plan.<br>6/18 - 178 lbs<br>6/25 - 172 lbs<br>7/20 - 167 lbs |
+| --- Weigh 168 lbs. | 3/31/18 | 2/6 - 171 lbs |
+| --- Weigh 170 lbs. | 6/30/18 | 6/18 - 178 lbs<br>6/25 - 172 lbs<br>7/20 - 167 lbs |
 | --- Weigh 160 lbs. | 9/30/18 |  |
 | --- Weigh 150 lbs. | 12/31/18 |  |
 | **Do a 50+ mile bike ride each month.** |  |  |
