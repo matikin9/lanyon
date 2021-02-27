@@ -28,8 +28,11 @@ __OF COURSE__ after I go through this I find this other library from the Dataset
 The README doesn't mention this but it will add a new table to an existing database.
 
 `$ csvs-to-sqlite trips.txt routes.db`
+
 `$ sqlite-utils tables routes.db --counts`
+
 `[{"table": "routes", "count": 134},`
+
 `{"table": "trips", "count": 27912}]`
 
 You can even pass it multiple files and it will bundle them into a single database:
